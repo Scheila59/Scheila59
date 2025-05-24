@@ -33,7 +33,7 @@ Passionnée de développement web et d'innovation technologique, je suis constam
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=scheila59&show_icons=true&theme=radical)
 
 ### 📫 Me Contacter
-- 💼 LinkedIn : [Suivez mon parcours](www.linkedin.com/in/laura-beaugrand-9161642b4)
+- 💼 LinkedIn : [Suivez mon parcours](https://www.linkedin.com/in/laura-beaugrand/)
 - 📧 Email : l.beaugrand@hotmail.com
 
 ### 🎯 Objectifs
