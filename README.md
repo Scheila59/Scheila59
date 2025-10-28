@@ -38,7 +38,8 @@ Passionnée de développement web et d'innovation technologique, je suis constam
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scheila59&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=scheila59&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=scheila59&theme=radical&hide_border=true)](https://github.com/scheila59)
+
 
 
 ### 📫 Me Contacter
