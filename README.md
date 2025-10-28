@@ -38,7 +38,8 @@ Passionnée de développement web et d'innovation technologique, je suis constam
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scheila59&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scheila59&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=scheila59&theme=radical)
+
 
 ### 📫 Me Contacter
 - 💼 LinkedIn : [Suivez mon parcours](https://www.linkedin.com/in/laura-beaugrand/)
