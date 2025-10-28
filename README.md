@@ -32,8 +32,6 @@ Passionnée de développement web et d'innovation technologique, je suis constam
 ### 📊 Mes Statistiques GitHub
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=scheila59&show_icons=true&theme=radical)
 
-Contributions graph
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scheila59&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
